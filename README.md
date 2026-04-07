@@ -1,35 +1,40 @@
-# 🎮 Kenneth Aventura
-AUTOR: Gabriel Perazza Fischer
+# 🎮 Kenneth Adventure
 
-Contato:
-https://www.linkedin.com/in/gabriel-perazza-fischer-543a53396/
+**AUTHOR:** Gabriel Perazza Fischer
 
-Projeto desenvolvido na disciplina de Algoritmos de Programação.
+**Contact:** [https://www.linkedin.com/in/gabriel-perazza-fischer-543a53396/](https://www.linkedin.com/in/gabriel-perazza-fischer-543a53396/)
 
-## 📖 Sobre o projeto
-"Kenneth Aventura" é um jogo de texto interativo desenvolvido em C++, onde as decisões do jogador impactam diretamente o desenrolar da história.
+Project developed for the **Programming Algorithms** course.
 
-O jogo trabalha com múltiplos caminhos e finais diferentes, simulando uma experiência narrativa dentro do terminal.
+---
 
-## 🚀 Funcionalidades
-- Sistema de escolhas (menu interativo)
-- Múltiplos caminhos na história
-- Diferentes finais dependendo das decisões
-- Validação de entrada do usuário
-- Organização do código em funções
+## 📖 About the Project
 
-## 🛠 Tecnologias utilizadas
-- C++
-- Programação em terminal (CLI)
+"Kenneth Adventure" is an interactive text-based game developed in **C++**, where the player's choices directly impact the outcome of the story.
 
+The game features multiple paths and different endings, simulating a narrative experience directly within the terminal.
 
-## 🚀 Como executar
+## 🚀 Features
 
-#### Compilar e Rodar:
+* **Choice System:** Interactive menus for decision-making.
+* **Non-linear Storyline:** Multiple branching paths.
+* **Multiple Endings:** Results vary based on player decisions.
+* **Input Validation:** Secure handling of user keyboard input.
+* **Modular Code:** Organized using functions for better maintainability.
+
+## 🛠 Technologies Used
+
+* **C++**
+* **CLI (Command Line Interface)** Programming
+
+## 🚀 How to Run
+
+#### Compile and Run:
+
 ```bash
-# Compilar o código
-g++ kenneth_aventura.cpp -o jogo
+# Compile the code
+g++ kenneth_aventura.cpp -o game
 
-# Executar o jogo
-./jogo
+# Run the game
+./game
 ```
