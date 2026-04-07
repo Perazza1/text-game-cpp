@@ -1,24 +1,31 @@
-# Kenneth Aventura
+# 🎮 Kenneth Aventura
 
 Projeto desenvolvido na disciplina de Algoritmos de Programação.
 
-## Sobre
-Jogo de texto em C++ com narrativa interativa, escolhas do jogador e diferentes caminhos possíveis.
+## 📖 Sobre o projeto
+"Kenneth Aventura" é um jogo de texto interativo desenvolvido em C++, onde as decisões do jogador impactam diretamente o desenrolar da história.
 
-## Tecnologias
+O jogo trabalha com múltiplos caminhos e finais diferentes, simulando uma experiência narrativa dentro do terminal.
+
+## 🚀 Funcionalidades
+- Sistema de escolhas (menu interativo)
+- Múltiplos caminhos na história
+- Diferentes finais dependendo das decisões
+- Validação de entrada do usuário
+- Organização do código em funções
+
+## 🛠 Tecnologias utilizadas
 - C++
-- Programação em terminal
+- Programação em terminal (CLI)
 
-## O que pratiquei
-- condicionais
-- loops
-- funções
-- entrada de dados
-- organização de lógica
 
-## Como executar
-Compile o arquivo:
+## 🚀 Como executar
+
+#### Compilar e Rodar:
+```bash
+# Compilar o código
 g++ kenneth_aventura.cpp -o jogo
 
-Depois execute:
+# Executar o jogo
 ./jogo
+```
